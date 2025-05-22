@@ -1,0 +1,150 @@
+9481787493 -Bhanu Prakash
+
+
+time: 7.30AM to 9AM
+Monday to Friday
+
+using Java
+1st 2 to 3 days -- java recap --> lambda 
+
+WhatsApp community:
+https://chat.whatsapp.com/HHJMKLGAz2xIKySKwHVviz
+
+GitHub:
+https://github.com/AksharaBhanu/B133
+
+Slack:
+https://b133730amplaywright.slack.com/archives/C08T4MKUR43
+
+Zoom:
+Zoom Link: https://us02web.zoom.us/j/86871001888 Passcode: live
+
+Akshara Mobile App:
+https://aksharatraining.com/mobile-app/
+
+Syllabus
+https://aksharatraining.com/playwright_java.html
+
+To watch  B133 Playwright videos on mobile app 
+
+Link to download the mobile app
+https://aksharatraining.com/mobile-app/
+
+Please follow the steps
+
+A. Open Akshara Mobile App
+B. Click 'Batches' at the bottom of the screen
+C. Click +
+D. Enter the batch code as b133 and click OK
+
+After your batch request is approved follow the below Steps
+
+1. Open Akshara Mobile App
+2. Click Batches at the bottom of the screen
+3. Click on AITM-PJMR-MAY22-B133
+4. Click Videos tab
+
+
+please use same phone number in all places
+calling WhatsApp Akshara mobile app...
+
+please use same email id in all places
+GitHub slack email zoom
+-----------------------------------------------------------------------
+playwright
+owner: MicroSoft
+Release: Jan 2020
+Free
+Open source
+Web Application 
+OS: Windows Mac Linux
+Browsers: Google Chrome, Mozilla Firefox ,MS Edge , Apple Safari (Webkit)
+Language: java, python, java script, type script, C#
+API testing 
+
+Java--> JDK 
+installing JDK 24.0.1
+https://www.oracle.com/in/java/technologies/downloads/#jdk24-windows
+
+cmd--> java -version
+path-->C:\Program Files\Java\jdk-24\bin
+
+IDE--> Eclipse IDE
+
+---------------------------------------------------------------------------------
+lambda in java 
+code optimization
+inner class
+----------------------------------
+https://docs.oracle.com/javase/specs/jls/se24/html/jls-3.html#jls-3.9
+java keywords--> 51
+
+abstract	continue	for	new	switch
+assert***	default	goto*	package	synchronized
+boolean	do	if	private	this
+break	double	implements	protected	throw
+byte	else	import	public	throws
+case	enum****	instanceof	return	transient
+catch	extends	int	short	try
+char	final	interface	static	void
+class	finally	long	strictfp**	volatile
+const*	float	native	super	while
+_
+
+ex: 
+int --> integer -10  meaning
+
+int i; declaring var or method argument
+
+variable: place holder /container to store data 
+datatype variablename;
+int i;
+identifier : user defined names --> var, class method package interface...
+
+rules
+1. No keywords
+2. contain only a-z A-Z 0-9 _ $
+3. should not start with digit   emp1 1emp _a  $a
+4. case sensitive
+5. no max limit
+
+data type: type of data we are storing
+2 types
+primitive 8--> byte short int long  float double char boolean
+non primitive--> class array interface Enum
+
+operators
+arithmetic--> + - * / %
+assignment --> = +=  -= *= /= %=
+++ --   ==> a++ 
+
+a++--> a=a+1 
+
+logical operators --> && || !
+
+relational operator--> > < >= <= == !=
+
+bitwise: & | ^ ~ << >> >>>
+
+Ternary Operator --> condition? true_value:false_value;
+
+instanceof
+
+. -> 
+
+control statement
+condition--> if switch
+loop--> for(for i , for each) while(while do-while)
+jumping--> break continue return throw goto
+
+
+
+
+
+
+
+
+
+
+
+
