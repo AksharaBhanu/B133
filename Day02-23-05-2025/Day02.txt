@@ -1,0 +1,57 @@
+if
+if-else
+if-else-if
+if-else-if....
+if-else-if-else
+if-else-if....-else
+nested condition
+switch
+
+for i loop 
+for each loop 
+while loop
+do while loop
+
+break & continue
+oops
+1. class--blue print 
+2. object--> instance of the class
+
+members--> variables and methods present in the class 
+
+
+variable to store personal info--> non-static var
+variable to store shared info--> static var
+
+method accessing
+1. only static var		static method
+2. none				static method
+3. only non-static var		non-static method
+4. both static & non-static	non-static method
+
+
+Bank
+account number--non-static
+IFSC---static
+PAN-NS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
